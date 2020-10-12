@@ -1,7 +1,10 @@
 # Haskell_Blog
 Blogs of all of the Programming Languages Classes
-<h2> ALL BLOGS </h2> 
-<a href="Blog1.md">Blog 1</a> <br>
-<a href="Blog2.md">Blog 2</a> <br>
-<a href="Blog3.md">Blog 3</a> <br>
-<a href="Blog4.md">Blog 4</a>
+
+## ALL BLOGS
+
+- [Introduction](Introduction.md)
+- [Development Environment Configuration](Environment_Config.md)
+- [Haskell Basic Data Model](Data_Model.md)
+- [Haskel basic operators](Basic_Operators.md)
+- [Haskell types and Type classes (Part I)](Types_and_classes(PartI).md)
