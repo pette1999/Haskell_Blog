@@ -23,6 +23,6 @@ Functional programs have higher concurrency. They follow parallelism during exec
 ## HELLO WORLD program
 
 This is a simple example to demonstrate the dynamics of Haskell. The following code only needs one line to be printed on the console "Hello Word". 
-`main = putStrLn "Hello World"`
+#### `main = putStrLn "Hello World"`
  The Haskell compiler interprets and executes the above code, it will immediately produce the following output
-` Hello World`
+#### ` Hello World`
