@@ -3,12 +3,12 @@
 
 Haskell is a purely functional programming language, so it is more interactive and intelligent than other programming languages. In this article, we will learn the basic data models of Haskell, which are actually predefined or intelligently decoded into computer memory in some way. 
 
-1. [Numbers](#1.-**Numbers**)
-2. [Characters](#2.-**Characters**)
-3. [String](#3.-**String**)
-4. [Boolean](#4.-**Boolean**)
-5. [List](#5.-**List**)
-6. [Tuples](#6.-**Tuples)
+1. [Numbers](##1.-**Numbers**)
+2. [Characters](##2.-**Characters**)
+3. [String](##3.-**String**)
+4. [Boolean](##4.-**Boolean**)
+5. [List](##5.-**List**)
+6. [Tuples](##6.-**Tuples)
 
 
 ## 1. **Numbers**
