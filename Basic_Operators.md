@@ -3,11 +3,11 @@
 
 Like other programming languages, Haskell can intelligently handle some basic operations, such as addition, subtraction, and multiplication. In the following chapters, we will learn more about the different operators and their usage.
 
-1. [Addition](#1.-**Addition**)
-2. [Subtraction](#2.-**Subtraction**)
-3. [Multiplication](#3.-**Multiplication**)
-4. [Division](#4.-**Division**)
-5. [Sequence/range](#5.-**Sequence/range**)
+1. [Addition](#1-Addition)
+2. [Subtraction](#2-Subtraction)
+3. [Multiplication](#3-Multiplication)
+4. [Division](#4-Division)
+5. [Sequence/range](#5-Sequence/range)
 
 ## 1. **Addition**
 

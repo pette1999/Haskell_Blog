@@ -3,13 +3,13 @@
 
 Haskell is a functional language. It is strictly typed. The Haskell compiler knows the data types used in the entire application at compile time.
 
-1. [Built-in type classes](#1.-**Built-in-type-classes**)
-2. [Int](#2.-**Int**)
-3. [Integer](#3.-**Integer**)
-4. [Float](#4.-**Float**)
-5. [Double](#5.-**Double**)
-6. [Bool](#5.-**Bool**)
-7. [Char](#5.-**Char**)
+1. [Built-in type classes](#1-Built-in-type-classes)
+2. [Int](#2-Int)
+3. [Integer](#3-Integer)
+4. [Float](#4-Float)
+5. [Double](#5-Double)
+6. [Bool](#6-Bool)
+7. [Char](#7-Char)
 
 ## 1. **Built-in type classes**
 
