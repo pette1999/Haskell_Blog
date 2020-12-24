@@ -3,9 +3,9 @@
 
 All the examples we have discussed so far are static in nature. In this chapter, we will learn how Haskell interacts with users dynamically. Learn the different input and output techniques used in Haskell.
 
-1. [Files and streams](#Files-and-streams)
-2. [Command line parameters](#Command-line-parameters)
-3. [Abnormal](#Abnormal)
+1. [Files and streams](#1-Files-and-streams)
+2. [Command line parameters](#2-Command-line-parameters)
+3. [Abnormal](#3-Abnormal)
 
 ## 1. **Files and streams**
 

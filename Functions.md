@@ -21,12 +21,12 @@ The addition of the two numbers is:
 7
 ```
 
-1. [Pattern matching](#Pattern-matching)
-2. [Guards](#Guards)
-3. [Where](#Where)
-4. [Recursive functions](#Recursive-functions)
-5. [Higher-order functions](#Higher-order-functions)
-6. [Lambda expression](#Lambda-expression)
+1. [Pattern matching](#1-Pattern-matching)
+2. [Guards](#2-Guards)
+3. [Where](#3-Where)
+4. [Recursive functions](#4-Recursive-functions)
+5. [Higher-order functions](#5-Higher-order-functions)
+6. [Lambda expression](#6-Lambda-expression)
 
 ## 1. **Pattern matching**
 

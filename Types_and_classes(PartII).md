@@ -3,16 +3,16 @@
 
 Haskell is a functional language. It is strictly typed. The Haskell compiler knows the data types used in the entire application at compile time.
 
-8. [EQ Type Class](#EQ-Type-Class)
-9. [Ord type class](#Ord-Type-Class)
-10. [Show](#Show)
-11. [Read](#Read)
-12. [Enum](#Enum)
-13. [Bounded](#Bounded)
-14. [Num](#Num)
-15. [Integral](#Integral)
-16. [Floating](#Floating)
-17. [Custom Type Class](#Custom-Type-Class)
+8. [EQ Type Class](#8-EQ-Type-Class)
+9. [Ord type class](#9-Ord-Type-Class)
+10. [Show](#10-Show)
+11. [Read](#11-Read)
+12. [Enum](#12-Enum)
+13. [Bounded](#13-Bounded)
+14. [Num](#14-Num)
+15. [Integral](#15-Integral)
+16. [Floating](#16-Floating)
+17. [Custom Type Class](#17-Custom-Type-Class)
 
 ## 8. **EQ Type Class**
 

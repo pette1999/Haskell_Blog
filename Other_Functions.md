@@ -3,20 +3,20 @@
 
 So far, we have discussed many types of Haskell functions and used different ways to call these functions. In this chapter, you will learn some basic functions that can be easily used in Haskell without importing any special `Type` classes. Most of these functions are part of other high-level functions.
 
-1. [head function](#head-function)
-2. [tail function](#tail-function)
-3. [The last function](#The-last-function)
-4. [init function](#init-function)
-5. [Null function](#Null-function)
-6. [The reverse function](#The-reverse-function)
-7. [length function](#length-function)
-8. [take function](#take-function)
-9. [drop function](#drop-function)
-10. [Maximum function](#Maximum-function)
-11. [minmum function](#minmum-function)
-12. [Sum function](#Sum-function)
-13. [product function](#product-function)
-14. [elem function](#elem-function)
+1. [head function](#1-head-function)
+2. [tail function](#2-tail-function)
+3. [The last function](#3-The-last-function)
+4. [init function](#4-init-function)
+5. [Null function](#5-Null-function)
+6. [The reverse function](#6-The-reverse-function)
+7. [length function](#7-length-function)
+8. [take function](#8-take-function)
+9. [drop function](#9-drop-function)
+10. [Maximum function](#10-Maximum-function)
+11. [minmum function](#11-minmum-function)
+12. [Sum function](#12-Sum-function)
+13. [product function](#13-product-function)
+14. [elem function](#14-elem-function)
 
 ## 1. **head function**
 

@@ -7,10 +7,10 @@ Haskell is a functional programming language. Everything is expressed as an expr
 
 You can import functions from one module to another. Before starting to define the function, all `import` statements should be placed first. In this chapter, we will learn about the different functions defined and used in Haskell modules.
 
-1. [List module](#List-module)
-2. [Char module](#Char-module)
-3. [Map module](#Map-module)
-4. [Set Module](#Set-Module)
+1. [List module](#1-List-module)
+2. [Char module](#2-Char-module)
+3. [Map module](#3-Map-module)
+4. [Set Module](#4-Set-Module)
 
 ## 1. **List module**
 
